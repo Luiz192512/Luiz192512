@@ -1,6 +1,6 @@
 Olá!👋 Sou o Luiz Gustavo Lorençone Enz
 
-Aluno do 1 semestre de Engenharia de Software
+Aluno do 3 semestre de Engenharia de Software
 
 * 🌍  Maringá, PR, Brasil
 * ✉️  Contato: [enz.luizgustavo@gmail.com](mailto:enz.luizgustavo@gmail.com)
