@@ -47,20 +47,11 @@ I build server-side applications with a focus on **clean code, Object-Oriented P
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://raw.githubusercontent.com/Luiz192512/Luiz192512/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
-  <img height="170" src="https://raw.githubusercontent.com/Luiz192512/Luiz192512/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz192512&layout=compact&theme=dracula" alt="Top Languages"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Luiz192512&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luiz192512/Luiz192512/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luiz192512/Luiz192512/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/Luiz192512/Luiz192512/output/github-snake-dark.svg" alt="Contribution snake"/>
-  </picture>
 </p>
 
 ---
