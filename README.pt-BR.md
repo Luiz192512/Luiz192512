@@ -47,20 +47,7 @@ Desenvolvo aplicações server-side com foco em **código limpo, Programação O
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://raw.githubusercontent.com/Luiz192512/Luiz192512/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub"/>
-  <img height="170" src="https://raw.githubusercontent.com/Luiz192512/Luiz192512/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Luiz192512&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luiz192512/Luiz192512/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luiz192512/Luiz192512/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/Luiz192512/Luiz192512/output/github-snake-dark.svg" alt="Cobrinha de contribuições"/>
-  </picture>
 </p>
 
 ---
