@@ -19,15 +19,15 @@
 
 ## About Me
 
-Back-End Developer and Software Engineering student from **Brazil** 🇧🇷, with a technical degree in Systems Development.
+Back-End Developer and Software Engineering student from **Brazil**, with a technical degree in Systems Development.
 
 I build server-side applications with a focus on **clean code, Object-Oriented Programming and well-structured architectures**, and I'm always looking to write software that is easy to maintain and scale.
 
-- 🎓 **Software Engineering** — undergraduate student
-- 🧑‍💻 **Technical Degree** in Systems Development
-- 🔭 Focused on **Back-End and Web Development**
-- 🌱 Currently deepening my knowledge of **Spring Boot, REST APIs, relational databases and AI integration**
-- 💼 **Open to Internship and Junior Developer opportunities**
+- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/graduation-light.svg"><img src="assets/icons/graduation-dark.svg" width="16" height="16" alt="" align="absmiddle"></picture> &nbsp;**Software Engineering** — undergraduate student
+- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/code-light.svg"><img src="assets/icons/code-dark.svg" width="16" height="16" alt="" align="absmiddle"></picture> &nbsp;**Technical Degree** in Systems Development
+- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/target-light.svg"><img src="assets/icons/target-dark.svg" width="16" height="16" alt="" align="absmiddle"></picture> &nbsp;Focused on **Back-End and Web Development**
+- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/book-light.svg"><img src="assets/icons/book-dark.svg" width="16" height="16" alt="" align="absmiddle"></picture> &nbsp;Currently deepening my knowledge of **Spring Boot, REST APIs, relational databases and AI integration**
+- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/briefcase-light.svg"><img src="assets/icons/briefcase-dark.svg" width="16" height="16" alt="" align="absmiddle"></picture> &nbsp;**Open to Internship and Junior Developer opportunities**
 
 ---
 

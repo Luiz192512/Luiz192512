@@ -19,15 +19,15 @@
 
 ## Sobre Mim
 
-Desenvolvedor Back-End e estudante de Engenharia de Software no **Brasil** 🇧🇷, com formação técnica em Desenvolvimento de Sistemas.
+Desenvolvedor Back-End e estudante de Engenharia de Software no **Brasil**, com formação técnica em Desenvolvimento de Sistemas.
 
 Desenvolvo aplicações server-side com foco em **código limpo, Programação Orientada a Objetos e arquiteturas bem estruturadas**, buscando sempre criar software fácil de manter e escalar.
 
-- 🎓 **Engenharia de Software** — graduação em andamento
-- 🧑‍💻 **Técnico** em Desenvolvimento de Sistemas
-- 🔭 Foco em **Back-End e Desenvolvimento Web**
-- 🌱 Aprofundando conhecimentos em **Spring Boot, APIs REST, bancos de dados relacionais e integração com IA**
-- 💼 **Aberto a oportunidades de Estágio e Desenvolvedor Júnior**
+- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/graduation-light.svg"><img src="assets/icons/graduation-dark.svg" width="16" height="16" alt="" align="absmiddle"></picture> &nbsp;**Engenharia de Software** — graduação em andamento
+- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/code-light.svg"><img src="assets/icons/code-dark.svg" width="16" height="16" alt="" align="absmiddle"></picture> &nbsp;**Técnico** em Desenvolvimento de Sistemas
+- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/target-light.svg"><img src="assets/icons/target-dark.svg" width="16" height="16" alt="" align="absmiddle"></picture> &nbsp;Foco em **Back-End e Desenvolvimento Web**
+- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/book-light.svg"><img src="assets/icons/book-dark.svg" width="16" height="16" alt="" align="absmiddle"></picture> &nbsp;Aprofundando conhecimentos em **Spring Boot, APIs REST, bancos de dados relacionais e integração com IA**
+- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/briefcase-light.svg"><img src="assets/icons/briefcase-dark.svg" width="16" height="16" alt="" align="absmiddle"></picture> &nbsp;**Aberto a oportunidades de Estágio e Desenvolvedor Júnior**
 
 ---
 
