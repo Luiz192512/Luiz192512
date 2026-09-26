@@ -26,7 +26,7 @@ Desenvolvo aplicações server-side com foco em **código limpo, Programação O
 - 🎓 **Engenharia de Software** — graduação em andamento
 - 🧑‍💻 **Técnico** em Desenvolvimento de Sistemas
 - 🔭 Foco em **Back-End e Desenvolvimento Web**
-- 🌱 Aprofundando conhecimentos em **Spring Boot, APIs REST e bancos de dados relacionais**
+- 🌱 Aprofundando conhecimentos em **Spring Boot, APIs REST, bancos de dados relacionais e integração com IA**
 - 💼 **Aberto a oportunidades de Estágio e Desenvolvedor Júnior**
 
 ---
@@ -39,6 +39,7 @@ Desenvolvo aplicações server-side com foco em **código limpo, Programação O
 | **Back-End** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![REST APIs](https://img.shields.io/badge/APIs_REST-005571?style=flat-square&logo=fastapi&logoColor=white) |
 | **Front-End** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | **Banco de Dados** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Inteligência Artificial** | ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Engenharia_de_Prompt-10A37F?style=flat-square&logo=openai&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
 | **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 ---
@@ -46,8 +47,8 @@ Desenvolvo aplicações server-side com foco em **código limpo, Programação O
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Luiz192512&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz192512&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens mais usadas"/>
+  <img height="170" src="https://raw.githubusercontent.com/Luiz192512/Luiz192512/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub"/>
+  <img height="170" src="https://raw.githubusercontent.com/Luiz192512/Luiz192512/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas"/>
 </p>
 
 <p align="center">
@@ -55,7 +56,11 @@ Desenvolvo aplicações server-side com foco em **código limpo, Programação O
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luiz192512&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de contribuições"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luiz192512/Luiz192512/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luiz192512/Luiz192512/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/Luiz192512/Luiz192512/output/github-snake-dark.svg" alt="Cobrinha de contribuições"/>
+  </picture>
 </p>
 
 ---
