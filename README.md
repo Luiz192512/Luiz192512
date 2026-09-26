@@ -47,6 +47,10 @@ I build server-side applications with a focus on **clean code, Object-Oriented P
 ## GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz192512&layout=compact&theme=dracula" alt="Top Languages"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Luiz192512&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 

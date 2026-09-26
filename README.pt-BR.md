@@ -47,6 +47,10 @@ Desenvolvo aplicações server-side com foco em **código limpo, Programação O
 ## Estatísticas do GitHub
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz192512&layout=compact&theme=dracula&locale=pt-br" alt="Linguagens mais usadas"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Luiz192512&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
 </p>
 
