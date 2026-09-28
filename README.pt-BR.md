@@ -1,64 +1,105 @@
 <p align="right">
-  <a href="README.md"><img src="https://img.shields.io/badge/Language-English-blue?style=flat-square" alt="English"/></a>
-  <a href="README.pt-BR.md"><img src="https://img.shields.io/badge/Idioma-Português-green?style=flat-square" alt="Português"/></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/Language-English-30363D?style=flat-square&labelColor=0D1117" alt="English"/></a>
+  <a href="README.pt-BR.md"><img src="https://img.shields.io/badge/Idioma-Português-00F79F?style=flat-square&labelColor=0D1117" alt="Português"/></a>
 </p>
 
-<h1 align="center">Luiz Gustavo Lorençone Enz</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0B3D2E,100:00F79F&height=200&section=header&text=Luiz%20Gustavo%20Lorençone%20Enz&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Back-End%20%C2%B7%20Estudante%20de%20Engenharia%20de%20Software&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Cabeçalho"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F79F&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-End;Estudante+de+Engenharia+de+Software;Java+%7C+Spring+Boot+%7C+Python+%7C+Go" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F79F&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-End;Estudante+de+Engenharia+de+Software;Java+%7C+Spring+Boot+%7C+Python+%7C+Go;C%C3%B3digo+limpo+%26+arquitetura+s%C3%B3lida" alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luiz-gustavo-lorencone-enz-370b15279/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Luiz192512"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Luiz192512&style=for-the-badge&color=00F79F&label=Visualiza%C3%A7%C3%B5es" alt="Visualizações do perfil"/>
+  <a href="https://github.com/Luiz192512?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios"/></a>
+  <img src="https://img.shields.io/badge/Aberto_a_oportunidades-00F79F?style=for-the-badge&logo=checkmarx&logoColor=0D1117" alt="Aberto a oportunidades"/>
+  <img src="https://komarev.com/ghpvc/?username=Luiz192512&style=for-the-badge&color=0D1117&label=Visualiza%C3%A7%C3%B5es" alt="Visualizações do perfil"/>
 </p>
 
----
+<br/>
 
-## Sobre Mim
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/code-light.svg"><img src="assets/icons/code-dark.svg" width="22" height="22" alt="" align="absmiddle"></picture> &nbsp;Sobre Mim
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 Desenvolvedor Back-End e estudante de Engenharia de Software no **Brasil**, com formação técnica em Desenvolvimento de Sistemas.
 
 Desenvolvo aplicações server-side com foco em **código limpo, Programação Orientada a Objetos e arquiteturas bem estruturadas**, buscando sempre criar software fácil de manter e escalar.
 
-- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/graduation-light.svg"><img src="assets/icons/graduation-dark.svg" width="16" height="16" alt="" align="absmiddle"></picture> &nbsp;**Engenharia de Software** — graduação em andamento
+- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/graduation-light.svg"><img src="assets/icons/graduation-dark.svg" width="16" height="16" alt="" align="absmiddle"></picture> &nbsp;**Engenharia de Software**, graduação em andamento
 - <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/code-light.svg"><img src="assets/icons/code-dark.svg" width="16" height="16" alt="" align="absmiddle"></picture> &nbsp;**Técnico** em Desenvolvimento de Sistemas
 - <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/target-light.svg"><img src="assets/icons/target-dark.svg" width="16" height="16" alt="" align="absmiddle"></picture> &nbsp;Foco em **Back-End e Desenvolvimento Web**
-- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/book-light.svg"><img src="assets/icons/book-dark.svg" width="16" height="16" alt="" align="absmiddle"></picture> &nbsp;Aprofundando conhecimentos em **Spring Boot, APIs REST, bancos de dados relacionais e integração com IA**
-- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/briefcase-light.svg"><img src="assets/icons/briefcase-dark.svg" width="16" height="16" alt="" align="absmiddle"></picture> &nbsp;**Aberto a oportunidades de Estágio e Desenvolvedor Júnior**
+- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/book-light.svg"><img src="assets/icons/book-dark.svg" width="16" height="16" alt="" align="absmiddle"></picture> &nbsp;Estudando **Spring Boot, APIs REST, SQL e integração com IA**
+- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/briefcase-light.svg"><img src="assets/icons/briefcase-dark.svg" width="16" height="16" alt="" align="absmiddle"></picture> &nbsp;**Aberto a Estágio e vagas Júnior**
 
----
+</td>
+<td width="45%" valign="top">
 
-## Tecnologias
+```java
+public class Luiz {
 
-| Categoria | Tecnologias |
-|---|---|
-| **Linguagens** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Back-End** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![REST APIs](https://img.shields.io/badge/APIs_REST-005571?style=flat-square&logo=fastapi&logoColor=white) |
-| **Front-End** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Banco de Dados** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Inteligência Artificial** | ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Engenharia_de_Prompt-10A37F?style=flat-square&logo=openai&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
-| **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+    String cargo    = "Desenvolvedor Back-End";
+    String local    = "Brasil";
 
----
+    String[] stack  = {
+        "Java", "Spring Boot",
+        "Python", "Go", "MySQL"
+    };
 
-## Estatísticas do GitHub
+    String[] foco   = {
+        "Clean Code", "POO",
+        "APIs REST", "Integração com IA"
+    };
+
+    boolean abertoAOportunidades = true;
+}
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/target-light.svg"><img src="assets/icons/target-dark.svg" width="22" height="22" alt="" align="absmiddle"></picture> &nbsp;Tecnologias
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz192512&layout=compact&theme=dracula&locale=pt-br" alt="Linguagens mais usadas"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,py,go,js,html,css,mysql,git,github,vscode,idea,tensorflow,pytorch&theme=dark&perline=7" alt="Tecnologias"/>
+  </a>
+</p>
+
+<p align="center"><b>IA &amp; Produtividade</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Engenharia_de_Prompt-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Engenharia de Prompt"/>
+</p>
+
+<br/>
+
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/book-light.svg"><img src="assets/icons/book-dark.svg" width="22" height="22" alt="" align="absmiddle"></picture> &nbsp;Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luiz192512&theme=tokyonight" width="100%" alt="Detalhes do perfil"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Luiz192512&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
+  <img src="https://streak-stats.demolab.com?user=Luiz192512&theme=tokyonight&hide_border=true&ring=00F79F&fire=00F79F&currStreakLabel=00F79F&locale=pt_BR" height="170" alt="Sequência de contribuições"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luiz192512&theme=tokyonight" height="170" alt="Linguagens mais usadas"/>
 </p>
 
----
+<br/>
 
-## Vamos Conversar
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/briefcase-light.svg"><img src="assets/icons/briefcase-dark.svg" width="22" height="22" alt="" align="absmiddle"></picture> &nbsp;Vamos Conversar
 
 Estou aberto a oportunidades de estágio e vagas júnior, colaborações e conversas técnicas.
 Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/luiz-gustavo-lorencone-enz-370b15279/).
 
-<p align="center"><i>Sempre aprendendo. Sempre construindo.</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F79F,50:0B3D2E,100:0D1117&height=120&section=footer&text=Sempre%20aprendendo.%20Sempre%20construindo.&fontSize=18&fontColor=ffffff&fontAlignY=70" width="100%" alt="Rodapé"/>
